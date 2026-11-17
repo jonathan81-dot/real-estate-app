@@ -1,0 +1,164 @@
+.nav {
+    display: flex;
+    justify-content:  space-evenly;
+    gap: 32vw;
+    align-items: center;
+    width: 100%;
+    background-color: transparent;
+    margin-bottom: 130px;
+    /* box-shadow: 0 10px 10px rgb(45, 45, 45); */
+    /* z-index: 100; */
+}
+
+.logo {
+    color: white;
+    padding-left: 20px;
+    font-size: 30px;
+}
+
+.logo:hover {
+    color: white;
+}
+
+.logo span {
+    color: rgb(84, 210, 255);
+}
+
+.actions {
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    align-items: center;
+    align-content: center;
+}
+
+.action, .support {
+    font-size: 18px;
+    padding: 12px;
+    margin: 8px;
+    color: black; 
+}
+
+.support {
+    color: white;
+    background-color: #43afe1;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.action:hover {
+    color: rgb(255, 255, 255);
+    /* background-color: rgb(198, 248, 255); */
+    border-bottom: rgb(198, 248, 255) 5px solid;
+    border-radius: 16px;
+    transition: 0.1s ease-in-out all;
+    cursor: pointer;
+}
+
+.support:hover {
+    color: #43afe1;
+    background-color: white;
+    transition: color 0.3s ease-in-out all;
+    transition: background-color 0.3s ease-in-out all;
+}
+
+
+/******************************* Responsive Web Design **********************************************/
+
+@media (max-width: 768px) {
+
+    .nav {
+
+        flex-wrap: wrap;
+
+        justify-content: center;
+
+        row-gap: 10px;
+
+        margin-bottom: 60px;
+
+    }
+
+
+
+    .logo {
+
+        padding-left: 0;
+
+        font-size: 22px;
+
+    }
+
+
+
+    .actions {
+
+        gap: 12px;
+
+        flex-wrap: wrap;
+
+        justify-content: center;
+
+    }
+
+
+
+    .action {
+
+        font-size: 14px;
+
+        padding: 8px;
+
+        margin: 4px;
+
+    }
+
+}
+
+
+
+@media (max-width: 480px) {
+
+    .nav {
+
+        margin-bottom: 40px;
+
+    }
+
+
+
+    .logo {
+
+        font-size: 18px;
+
+    }
+
+
+
+    .actions {
+
+        gap: 6px;
+
+    }
+
+
+
+    .action {
+
+        font-size: 11px;
+
+        padding: 6px;
+
+        margin: 2px;
+
+    }
+
+
+
+    .action span {
+
+        padding: 6px;
+
+    }
+
+}

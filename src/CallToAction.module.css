@@ -1,0 +1,136 @@
+.container {
+  /* margin: 0 50px; */
+  padding-top: 80px;
+  padding-bottom: 120px;
+  width: 100%;
+  background: linear-gradient(to top, rgba(20, 20, 20, 0.7) 95%, #212121 100%), linear-gradient(to bottom, #21212133 85%, rgb(62, 62, 62) 100%), url("https://plus.unsplash.com/premium_photo-1663089688180-444ff0066e5d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+  
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  min-height: 35vh;
+}
+
+.container h1 {
+  font-size: 42px;
+  margin: 0 50px;
+  margin-bottom: 60px;
+}
+
+.call {
+  text-align: center;
+}
+
+.call p {
+  font-size: 24px;
+  
+}
+
+
+@property --color-1 {
+  syntax: '<color>';
+  inherits: false;
+  initial-value: #ca8935;
+}
+
+@property --color-2 {
+  syntax: '<color>';
+  inherits: false;
+  initial-value: #6b3a12;
+}
+
+@property --color-3 {
+  syntax: '<color>';
+  inherits: false;
+  initial-value: #6b3a12;
+}
+
+.call button {
+  background: linear-gradient(45deg, var(--color-3), var(--color-1), var(--color-2));
+  transition: --color-1 0.5s ease-in-out, --color-2 0.5s ease-in-out, --color-3 0.5s ease-in-out;
+  
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+.call button:hover {
+  --color-1: #6b3a12;
+  --color-2: #6b3a12;
+  --color-3: #ca8935;
+  
+  color: white;
+  /* border: 0.5px solid transparent; */
+}
+
+/* .call button {
+  font-size: 18px;
+  background-color: #ca8935;
+  border: 1px solid transparent;
+  color: white;
+  cursor: pointer;
+}
+
+.call button:hover {
+  color: #ca8935;
+  background-color: white;
+  border: 1px solid transparent;
+  transition: color 0.5s ease-in-out;
+  transition: background-color 0.5s ease-in-out;
+} */
+
+
+
+/******************************* Responsive Web Design **********************************************/
+
+@media (max-width: 768px) {
+
+  .container {
+
+    padding-bottom: 70px;
+
+  }
+
+
+
+  .container h1 {
+
+    margin: 0 20px;
+
+    margin-bottom: 40px;
+
+    font-size: 26px;
+
+  }
+
+
+
+  .call p {
+
+    font-size: 16px;
+
+    padding: 0 20px;
+
+  }
+
+}
+
+
+
+@media (max-width: 480px) {
+
+  .container h1 {
+
+    font-size: 20px;
+
+  }
+
+
+
+  .call p {
+
+    font-size: 14px;
+
+  }
+
+}

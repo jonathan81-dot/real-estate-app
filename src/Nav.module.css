@@ -1,0 +1,144 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    background: linear-gradient( rgba(44, 181, 255, 0.5) 0%, rgb(20, 20, 20) 90%);
+    /* box-shadow: 0 10px 10px rgb(45, 45, 45); */
+    /* z-index: 100; */
+    padding-bottom: 20px;
+    margin-bottom: 35px;
+}
+
+.logo {
+    color: white;
+    padding-left: 20px;
+    font-size: 25px;
+}
+
+.logo:hover {
+    color: white;
+}
+
+.logo span {
+    color: rgb(84, 210, 255);
+}
+
+.actions {
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    align-items: center;
+    align-content: center;
+}
+
+.action {
+    font-size: 15px;
+    padding: 12px;
+    margin: 8px;
+    color: white; 
+}
+
+.action:hover {
+    color: rgb(145, 233, 255);
+    /* background-color: rgb(198, 248, 255); */
+    border-bottom: rgb(198, 248, 255) 5px solid;
+    border-radius: 16px;
+    transition: 0.2s ease-in all;
+    cursor: pointer;
+}
+
+
+/******************************* Responsive Web Design **********************************************/
+
+@media (max-width: 768px) {
+
+    .nav {
+
+        flex-wrap: wrap;
+
+        justify-content: center;
+
+        row-gap: 10px;
+
+        padding-bottom: 15px;
+
+        margin-bottom: 20px;
+
+    }
+
+
+
+    .logo {
+
+        padding-left: 0;
+
+        font-size: 22px;
+
+    }
+
+
+
+    .actions {
+
+        gap: 12px;
+
+        flex-wrap: wrap;
+
+        justify-content: center;
+
+    }
+
+
+
+    .action {
+
+        font-size: 13px;
+
+        padding: 8px;
+
+        margin: 4px;
+
+    }
+
+}
+
+
+
+@media (max-width: 480px) {
+
+    .nav {
+
+        row-gap: 6px;
+
+    }
+
+
+
+    .logo {
+
+        font-size: 18px;
+
+    }
+
+
+
+    .actions {
+
+        gap: 6px;
+
+    }
+
+
+
+    .action {
+
+        font-size: 11px;
+
+        padding: 6px;
+
+        margin: 2px;
+
+    }
+
+}

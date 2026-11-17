@@ -1,0 +1,96 @@
+.container {
+    margin: 0 50px;
+    margin-bottom: 100px;
+}
+
+.container h1 {
+    font-size: 42px;
+}
+
+.cards {
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+}
+
+.card {
+    padding: 20px;
+    padding-bottom: 150px;
+    background: linear-gradient(15deg, rgb(74, 171, 220), rgb(15, 15, 15));
+    border-radius: 25px;
+}
+
+.card h2 {
+    font-size: 26px;
+    text-align: center;
+}
+
+.card p {
+    font-size: 16px;
+    opacity: 60%;
+    text-align: justify;
+}
+
+
+/******************************* Responsive Web Design **********************************************/
+
+@media (max-width: 768px) {
+
+    .container {
+
+        margin: 0 20px;
+
+        margin-bottom: 60px;
+
+    }
+
+
+
+    .cards {
+
+        flex-direction: column;
+
+        margin-top: 60px;
+
+        gap: 20px;
+
+    }
+
+
+
+    .card {
+
+        width: 100%;
+
+        padding-bottom: 60px;
+
+        box-sizing: border-box;
+
+    }
+
+}
+
+
+
+@media (max-width: 480px) {
+
+    .container {
+
+        margin: 0 12px;
+
+    }
+
+
+
+    .card {
+
+        padding: 15px;
+
+        padding-bottom: 40px;
+
+    }
+
+}

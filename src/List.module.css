@@ -1,0 +1,75 @@
+.list {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-bottom: 150px;
+    /* padding: 10px; */
+}
+
+.title {
+    margin-bottom: 120px;
+}
+
+.item {
+    text-align: right;
+    margin-left: 50px;
+}
+
+.details {
+    list-style: none;
+    font-size: 20px;
+}
+
+
+/******************************* Responsive Web Design **********************************************/
+
+@media (max-width: 900px) {
+
+    .list {
+
+        grid-template-columns: repeat(2, 1fr);
+
+    }
+
+}
+
+
+
+@media (max-width: 600px) {
+
+    .list {
+
+        grid-template-columns: 1fr;
+
+    }
+
+
+
+    .title {
+
+        margin-bottom: 60px;
+
+        font-size: 20px;
+
+        text-align: center;
+
+    }
+
+
+
+    .item {
+
+        margin-left: 0;
+
+        text-align: center;
+
+    }
+
+
+
+    .details {
+
+        font-size: 14px;
+
+    }
+
+}

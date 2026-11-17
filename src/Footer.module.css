@@ -1,0 +1,47 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    color: rgb(140, 140, 140);
+    background-color: #212121;
+    text-align: center;
+    padding-top: 90px;
+}
+
+.footer li, p {
+    opacity: 45%;
+}
+
+.links ul {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    padding: 0;
+}
+
+.links li:hover {
+    color: rgb(161, 227, 255);
+    cursor: pointer;
+}
+
+
+
+/******************************* Responsive Web Design **********************************************/
+
+@media (max-width: 480px) {
+
+    .links ul {
+
+        gap: 10px;
+
+        font-size: 14px;
+
+    }
+
+}
+
+

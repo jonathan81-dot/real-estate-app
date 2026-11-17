@@ -1,0 +1,96 @@
+.container {
+    margin: 10px 10px;
+    padding: 40px;
+    color: white;
+    background: linear-gradient(45deg, #3686c8, rgb(20, 20, 20));
+    border-radius: 30px;
+    max-width: 400px;
+    height: auto;
+}
+
+.container img {
+    height: auto;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.container:hover {
+    color: white;
+    box-shadow: 0px 0px 15px #47d7ff;
+    cursor: default;
+    max-width: 550px;
+}
+
+.item {
+    text-align: center;
+    /* transition: text-align 0.5s ease-in-out; */
+}
+
+.title {
+    font-size: 22px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.card {
+    /* transition: all 0.5s ease-in-out; */
+}
+
+.card ul {
+    opacity: 0%;
+    display: none;
+    /* transition: all 0.5s ease-in-out; */
+}
+
+.container:hover .item {
+    text-align: left;
+}
+
+.container:hover .card {
+    display: flex;
+    flex-direction: row;
+}
+
+.container:hover .card ul {
+    display: block;
+    opacity: 100%;
+}
+
+.details {
+    font-size: 14px;
+    list-style: none;
+}
+
+
+
+/******************************* Responsive Web Design **********************************************/
+
+@media (max-width: 480px) {
+
+    .item {
+
+        margin: 8px 4px;
+
+        padding: 20px;
+
+        border-radius: 18px;
+
+    }
+
+
+
+    .title {
+
+        font-size: 20px;
+
+    }
+
+
+
+    .details {
+
+        font-size: 13px;
+
+    }
+
+}

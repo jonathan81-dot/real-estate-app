@@ -1,0 +1,163 @@
+.container {
+    margin: 0 100px;
+}
+
+.navBtns {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 80vw;
+    padding: 1em;
+}
+
+.navBtnL {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: rgb(67, 196, 255);
+    border: none;
+    transition: all 0.2s ease-in-out;
+}
+
+.navBtnL:hover {
+    background-color: white;
+    color: rgb(67, 196, 255);
+}
+
+.arrowLeft {
+    transition: transform 0.2s ease-in-out;
+}
+
+.navBtnL:hover .arrowLeft {
+    transform: translateX(-6px);
+}
+
+.navBtnR {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: rgb(67, 196, 255);
+    border: none;
+    transition: all 0.2s ease-in-out;
+}
+
+.navBtnR:hover {
+    background-color: white;
+    color: rgb(67, 196, 255);
+}
+
+.arrowRight {
+    transition: transform 0.2s ease-in-out;
+}
+
+.navBtnR:hover .arrowRight {
+    transform: translateX(6px);
+}
+
+.container h1 {
+    font-size: 32px;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.paragraph {
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.container h2 {
+    font-size: 26px;
+}
+
+.container p {
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+.container h4 {
+    opacity: 79%;
+    margin-left: 250px;
+}
+
+.formSection {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 100px;
+    margin: 100px auto;
+    padding: 0;
+    background-color: rgb(36, 36, 36);
+    border-radius: 30px;
+}
+
+.formSection h2 {
+    font-size: 36px;
+}
+
+.formContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+    flex: 1 0 auto;
+    background-color: rgb(20, 20, 20);
+    padding-right: 10vw;
+}
+
+.form {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-left: 80px;
+}
+
+
+.details {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.formElement {
+    display: flex;
+    flex-direction: column;
+    font-size: 24px;
+    gap: 10px;
+}
+
+.formElement input, select {
+    width: 300px;
+    height: 30px;
+    border: none;
+}
+
+.formElement input:focus {
+    outline: 1px solid rgb(67, 196, 255); 
+}
+
+.formContainer button {
+    background-color: rgb(67, 196, 255);
+    color: white;
+    font-size: 16px;
+    margin-top: 60px;
+    padding: 10px 5px;
+    border: none;
+    transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+}
+
+.formContainer button:hover {
+    background-color: white;
+    color: rgb(67, 196, 255);
+}
+
+.location {
+    flex: 1 0 auto;
+    text-align: center;
+    padding-right: 60px;
+    margin: 0 auto;
+}
+
+.map {
+    border-radius: 15px;
+    margin: 0 auto;
+}

@@ -1,0 +1,1762 @@
+[
+    {
+        "id": "840-Ocean-Drive-Miami-FL-33139",
+        "formattedAddress": "840 Ocean Drive, Miami, FL 33139",
+        "addressLine1": "840 Ocean Drive",
+        "addressLine2": null,
+        "city": "Miami",
+        "state": "FL",
+        "stateFips": "12",
+        "zipCode": "33139",
+        "county": "Miami-Dade",
+        "countyFips": "086",
+        "latitude": 25.7778,
+        "longitude": -80.1312,
+        "propertyType": "Condominium",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 1480,
+        "lotSize": 0,
+        "yearBuilt": 2018,
+        "assessorID": "121000-086-0001",
+        "legalDescription": "LOT 1 SOUTH BEACH",
+        "subdivision": "SOUTH BEACH",
+        "zoning": "RM",
+        "lastSaleDate": "2024-01-01T00:00:00.000Z",
+        "lastSalePrice": 820000,
+        "hoa": {
+            "fee": 610
+        },
+        "features": {
+            "architectureType": "Coastal",
+            "cooling": true,
+            "coolingType": "Central",
+            "exteriorType": "Stucco",
+            "fireplace": false,
+            "fireplaceType": null,
+            "floorCount": 15,
+            "foundationType": "Concrete",
+            "garage": true,
+            "garageSpaces": 1,
+            "garageType": "Underground",
+            "heating": true,
+            "heatingType": "Electric",
+            "pool": true,
+            "poolType": "Community",
+            "roofType": "Flat",
+            "roomCount": 5,
+            "unitCount": 120,
+            "viewType": "Ocean"
+        },
+        "taxAssessments": {
+            "2024": {
+                "year": 2024,
+                "value": 801000,
+                "land": 0,
+                "improvements": 801000
+            }
+        },
+        "propertyTaxes": {
+            "2024": {
+                "year": 2024,
+                "total": 9214
+            }
+        },
+        "history": {
+            "2024-01-01": {
+                "event": "Sale",
+                "date": "2024-01-01T00:00:00.000Z",
+                "price": 820000
+            }
+        },
+        "owner": {
+            "names": [
+                "James Richardson"
+            ],
+            "type": "Individual",
+            "mailingAddress": {
+                "id": "840-Ocean-Drive-Miami-FL-33139",
+                "formattedAddress": "840 Ocean Drive, Miami, FL 33139",
+                "addressLine1": "840 Ocean Drive",
+                "addressLine2": null,
+                "city": "Miami",
+                "state": "FL",
+                "stateFips": "12",
+                "zipCode": "33139"
+            }
+        },
+        "ownerOccupied": false
+    },
+    {
+        "id": "1200-Brickell-Avenue-Miami-FL-33131",
+        "formattedAddress": "1200 Brickell Avenue, Miami, FL 33131",
+        "addressLine1": "1200 Brickell Avenue",
+        "addressLine2": null,
+        "city": "Miami",
+        "state": "FL",
+        "stateFips": "12",
+        "zipCode": "33131",
+        "county": "Miami-Dade",
+        "countyFips": "086",
+        "latitude": 25.7602,
+        "longitude": -80.191,
+        "propertyType": "Condominium",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 1320,
+        "lotSize": 0,
+        "yearBuilt": 2019,
+        "assessorID": "121001-086-0002",
+        "legalDescription": "LOT 2 BRICKELL",
+        "subdivision": "BRICKELL",
+        "zoning": "RM",
+        "lastSaleDate": "2024-02-02T00:00:00.000Z",
+        "lastSalePrice": 650000,
+        "hoa": {
+            "fee": 610
+        },
+        "features": {
+            "architectureType": "Modern",
+            "cooling": true,
+            "coolingType": "Central",
+            "exteriorType": "Stucco",
+            "fireplace": false,
+            "fireplaceType": null,
+            "floorCount": 15,
+            "foundationType": "Concrete",
+            "garage": true,
+            "garageSpaces": 1,
+            "garageType": "Underground",
+            "heating": true,
+            "heatingType": "Electric",
+            "pool": true,
+            "poolType": "Community",
+            "roofType": "Flat",
+            "roomCount": 5,
+            "unitCount": 120,
+            "viewType": "Bay"
+        },
+        "taxAssessments": {
+            "2024": {
+                "year": 2024,
+                "value": 610000,
+                "land": 0,
+                "improvements": 610000
+            }
+        },
+        "propertyTaxes": {
+            "2024": {
+                "year": 2024,
+                "total": 7200
+            }
+        },
+        "history": {
+            "2024-02-02": {
+                "event": "Sale",
+                "date": "2024-02-02T00:00:00.000Z",
+                "price": 650000
+            }
+        },
+        "owner": {
+            "names": [
+                "Olivia Bennett"
+            ],
+            "type": "Individual",
+            "mailingAddress": {
+                "id": "1200-Brickell-Avenue-Miami-FL-33131",
+                "formattedAddress": "1200 Brickell Avenue, Miami, FL 33131",
+                "addressLine1": "1200 Brickell Avenue",
+                "addressLine2": null,
+                "city": "Miami",
+                "state": "FL",
+                "stateFips": "12",
+                "zipCode": "33131"
+            }
+        },
+        "ownerOccupied": false
+    },
+    {
+        "id": "455-Collins-Avenue-Miami-Beach-FL-33139",
+        "formattedAddress": "455 Collins Avenue, Miami Beach, FL 33139",
+        "addressLine1": "455 Collins Avenue",
+        "addressLine2": null,
+        "city": "Miami Beach",
+        "state": "FL",
+        "stateFips": "12",
+        "zipCode": "33139",
+        "county": "Miami-Dade",
+        "countyFips": "086",
+        "latitude": 25.7753,
+        "longitude": -80.1319,
+        "propertyType": "Condominium",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "squareFootage": 890,
+        "lotSize": 0,
+        "yearBuilt": 2017,
+        "assessorID": "121002-086-0003",
+        "legalDescription": "LOT 3 SOUTH BEACH",
+        "subdivision": "SOUTH BEACH",
+        "zoning": "RM",
+        "lastSaleDate": "2024-03-03T00:00:00.000Z",
+        "lastSalePrice": 540000,
+        "hoa": {
+            "fee": 610
+        },
+        "features": {
+            "architectureType": "Coastal",
+            "cooling": true,
+            "coolingType": "Central",
+            "exteriorType": "Stucco",
+            "fireplace": false,
+            "fireplaceType": null,
+            "floorCount": 15,
+            "foundationType": "Concrete",
+            "garage": true,
+            "garageSpaces": 1,
+            "garageType": "Underground",
+            "heating": true,
+            "heatingType": "Electric",
+            "pool": true,
+            "poolType": "Community",
+            "roofType": "Flat",
+            "roomCount": 4,
+            "unitCount": 120,
+            "viewType": "Ocean"
+        },
+        "taxAssessments": {
+            "2024": {
+                "year": 2024,
+                "value": 512000,
+                "land": 0,
+                "improvements": 512000
+            }
+        },
+        "propertyTaxes": {
+            "2024": {
+                "year": 2024,
+                "total": 6100
+            }
+        },
+        "history": {
+            "2024-03-03": {
+                "event": "Sale",
+                "date": "2024-03-03T00:00:00.000Z",
+                "price": 540000
+            }
+        },
+        "owner": {
+            "names": [
+                "Michael Turner"
+            ],
+            "type": "Individual",
+            "mailingAddress": {
+                "id": "455-Collins-Avenue-Miami-Beach-FL-33139",
+                "formattedAddress": "455 Collins Avenue, Miami Beach, FL 33139",
+                "addressLine1": "455 Collins Avenue",
+                "addressLine2": null,
+                "city": "Miami Beach",
+                "state": "FL",
+                "stateFips": "12",
+                "zipCode": "33139"
+            }
+        },
+        "ownerOccupied": false
+    },
+    {
+        "id": "3200-Grand-Avenue-Miami-FL-33133",
+        "formattedAddress": "3200 Grand Avenue, Miami, FL 33133",
+        "addressLine1": "3200 Grand Avenue",
+        "addressLine2": null,
+        "city": "Miami",
+        "state": "FL",
+        "stateFips": "12",
+        "zipCode": "33133",
+        "county": "Miami-Dade",
+        "countyFips": "086",
+        "latitude": 25.727,
+        "longitude": -80.2398,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "squareFootage": 2640,
+        "lotSize": 7200,
+        "yearBuilt": 2012,
+        "assessorID": "121003-086-0004",
+        "legalDescription": "LOT 4 COCONUT GROVE",
+        "subdivision": "COCONUT GROVE",
+        "zoning": "RS-3",
+        "lastSaleDate": "2024-04-04T00:00:00.000Z",
+        "lastSalePrice": 1450000,
+        "hoa": {
+            "fee": 0
+        },
+        "features": {
+            "architectureType": "Modern",
+            "cooling": true,
+            "coolingType": "Central",
+            "exteriorType": "Stucco",
+            "fireplace": true,
+            "fireplaceType": "Electric",
+            "floorCount": 1,
+            "foundationType": "Concrete",
+            "garage": true,
+            "garageSpaces": 2,
+            "garageType": "Attached",
+            "heating": true,
+            "heatingType": "Electric",
+            "pool": true,
+            "poolType": "Private",
+            "roofType": "Tile",
+            "roomCount": 7,
+            "unitCount": 1,
+            "viewType": "Garden"
+        },
+        "taxAssessments": {
+            "2024": {
+                "year": 2024,
+                "value": 1325000,
+                "land": 450500,
+                "improvements": 874500
+            }
+        },
+        "propertyTaxes": {
+            "2024": {
+                "year": 2024,
+                "total": 15800
+            }
+        },
+        "history": {
+            "2024-04-04": {
+                "event": "Sale",
+                "date": "2024-04-04T00:00:00.000Z",
+                "price": 1450000
+            }
+        },
+        "owner": {
+            "names": [
+                "Sophia Martinez"
+            ],
+            "type": "Individual",
+            "mailingAddress": {
+                "id": "3200-Grand-Avenue-Miami-FL-33133",
+                "formattedAddress": "3200 Grand Avenue, Miami, FL 33133",
+                "addressLine1": "3200 Grand Avenue",
+                "addressLine2": null,
+                "city": "Miami",
+                "state": "FL",
+                "stateFips": "12",
+                "zipCode": "33133"
+            }
+        },
+        "ownerOccupied": true
+    },
+    {
+        "id": "7800-SW-68th-Street-Miami-FL-33143",
+        "formattedAddress": "7800 SW 68th Street, Miami, FL 33143",
+        "addressLine1": "7800 SW 68th Street",
+        "addressLine2": null,
+        "city": "Miami",
+        "state": "FL",
+        "stateFips": "12",
+        "zipCode": "33143",
+        "county": "Miami-Dade",
+        "countyFips": "086",
+        "latitude": 25.7101,
+        "longitude": -80.3038,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 2180,
+        "lotSize": 8400,
+        "yearBuilt": 2008,
+        "assessorID": "121004-086-0005",
+        "legalDescription": "LOT 5 SUNSET MANOR",
+        "subdivision": "SUNSET MANOR",
+        "zoning": "RS-3",
+        "lastSaleDate": "2024-05-05T00:00:00.000Z",
+        "lastSalePrice": 925000,
+        "hoa": {
+            "fee": 0
+        },
+        "features": {
+            "architectureType": "Modern",
+            "cooling": true,
+            "coolingType": "Central",
+            "exteriorType": "Stucco",
+            "fireplace": true,
+            "fireplaceType": "Electric",
+            "floorCount": 1,
+            "foundationType": "Concrete",
+            "garage": true,
+            "garageSpaces": 2,
+            "garageType": "Attached",
+            "heating": true,
+            "heatingType": "Electric",
+            "pool": true,
+            "poolType": "Private",
+            "roofType": "Tile",
+            "roomCount": 6,
+            "unitCount": 1,
+            "viewType": "Garden"
+        },
+        "taxAssessments": {
+            "2024": {
+                "year": 2024,
+                "value": 864000,
+                "land": 293760,
+                "improvements": 570240
+            }
+        },
+        "propertyTaxes": {
+            "2024": {
+                "year": 2024,
+                "total": 10300
+            }
+        },
+        "history": {
+            "2024-05-05": {
+                "event": "Sale",
+                "date": "2024-05-05T00:00:00.000Z",
+                "price": 925000
+            }
+        },
+        "owner": {
+            "names": [
+                "Daniel Brooks"
+            ],
+            "type": "Individual",
+            "mailingAddress": {
+                "id": "7800-SW-68th-Street-Miami-FL-33143",
+                "formattedAddress": "7800 SW 68th Street, Miami, FL 33143",
+                "addressLine1": "7800 SW 68th Street",
+                "addressLine2": null,
+                "city": "Miami",
+                "state": "FL",
+                "stateFips": "12",
+                "zipCode": "33143"
+            }
+        },
+        "ownerOccupied": true
+    },
+    {
+        "id": "2100-Bay-Drive-Miami-Beach-FL-33141",
+        "formattedAddress": "2100 Bay Drive, Miami Beach, FL 33141",
+        "addressLine1": "2100 Bay Drive",
+        "addressLine2": null,
+        "city": "Miami Beach",
+        "state": "FL",
+        "stateFips": "12",
+        "zipCode": "33141",
+        "county": "Miami-Dade",
+        "countyFips": "086",
+        "latitude": 25.8494,
+        "longitude": -80.1231,
+        "propertyType": "Townhouse",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "squareFootage": 2080,
+        "lotSize": 1800,
+        "yearBuilt": 2020,
+        "assessorID": "121005-086-0006",
+        "legalDescription": "LOT 6 NORMANDY ISLE",
+        "subdivision": "NORMANDY ISLE",
+        "zoning": "R-2",
+        "lastSaleDate": "2024-06-06T00:00:00.000Z",
+        "lastSalePrice": 1180000,
+        "hoa": {
+            "fee": 425
+        },
+        "features": {
+            "architectureType": "Modern",
+            "cooling": true,
+            "coolingType": "Central",
+            "exteriorType": "Stucco",
+            "fireplace": true,
+            "fireplaceType": "Electric",
+            "floorCount": 2,
+            "foundationType": "Concrete",
+            "garage": true,
+            "garageSpaces": 1,
+            "garageType": "Attached",
+            "heating": true,
+            "heatingType": "Electric",
+            "pool": true,
+            "poolType": "Community",
+            "roofType": "Tile",
+            "roomCount": 6,
+            "unitCount": 1,
+            "viewType": "Bay"
+        },
+        "taxAssessments": {
+            "2024": {
+                "year": 2024,
+                "value": 1095000,
+                "land": 372300,
+                "improvements": 722700
+            }
+        },
+        "propertyTaxes": {
+            "2024": {
+                "year": 2024,
+                "total": 12900
+            }
+        },
+        "history": {
+            "2024-06-06": {
+                "event": "Sale",
+                "date": "2024-06-06T00:00:00.000Z",
+                "price": 1180000
+            }
+        },
+        "owner": {
+            "names": [
+                "Emily Carter"
+            ],
+            "type": "Individual",
+            "mailingAddress": {
+                "id": "2100-Bay-Drive-Miami-Beach-FL-33141",
+                "formattedAddress": "2100 Bay Drive, Miami Beach, FL 33141",
+                "addressLine1": "2100 Bay Drive",
+                "addressLine2": null,
+                "city": "Miami Beach",
+                "state": "FL",
+                "stateFips": "12",
+                "zipCode": "33141"
+            }
+        },
+        "ownerOccupied": false
+    },
+    {
+        "id": "990-Biscayne-Boulevard-Miami-FL-33132",
+        "formattedAddress": "990 Biscayne Boulevard, Miami, FL 33132",
+        "addressLine1": "990 Biscayne Boulevard",
+        "addressLine2": null,
+        "city": "Miami",
+        "state": "FL",
+        "stateFips": "12",
+        "zipCode": "33132",
+        "county": "Miami-Dade",
+        "countyFips": "086",
+        "latitude": 25.7826,
+        "longitude": -80.1899,
+        "propertyType": "Condominium",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 1450,
+        "lotSize": 0,
+        "yearBuilt": 2021,
+        "assessorID": "121006-086-0007",
+        "legalDescription": "LOT 7 PARK WEST",
+        "subdivision": "PARK WEST",
+        "zoning": "RM",
+        "lastSaleDate": "2024-07-07T00:00:00.000Z",
+        "lastSalePrice": 910000,
+        "hoa": {
+            "fee": 610
+        },
+        "features": {
+            "architectureType": "Modern",
+            "cooling": true,
+            "coolingType": "Central",
+            "exteriorType": "Stucco",
+            "fireplace": false,
+            "fireplaceType": null,
+            "floorCount": 15,
+            "foundationType": "Concrete",
+            "garage": true,
+            "garageSpaces": 1,
+            "garageType": "Underground",
+            "heating": true,
+            "heatingType": "Electric",
+            "pool": true,
+            "poolType": "Community",
+            "roofType": "Flat",
+            "roomCount": 5,
+            "unitCount": 120,
+            "viewType": "City"
+        },
+        "taxAssessments": {
+            "2024": {
+                "year": 2024,
+                "value": 875000,
+                "land": 0,
+                "improvements": 875000
+            }
+        },
+        "propertyTaxes": {
+            "2024": {
+                "year": 2024,
+                "total": 9800
+            }
+        },
+        "history": {
+            "2024-07-07": {
+                "event": "Sale",
+                "date": "2024-07-07T00:00:00.000Z",
+                "price": 910000
+            }
+        },
+        "owner": {
+            "names": [
+                "Noah Williams"
+            ],
+            "type": "Individual",
+            "mailingAddress": {
+                "id": "990-Biscayne-Boulevard-Miami-FL-33132",
+                "formattedAddress": "990 Biscayne Boulevard, Miami, FL 33132",
+                "addressLine1": "990 Biscayne Boulevard",
+                "addressLine2": null,
+                "city": "Miami",
+                "state": "FL",
+                "stateFips": "12",
+                "zipCode": "33132"
+            }
+        },
+        "ownerOccupied": false
+    },
+    {
+        "id": "4100-Sheridan-Street-Hollywood-FL-33021",
+        "formattedAddress": "4100 Sheridan Street, Hollywood, FL 33021",
+        "addressLine1": "4100 Sheridan Street",
+        "addressLine2": null,
+        "city": "Hollywood",
+        "state": "FL",
+        "stateFips": "12",
+        "zipCode": "33021",
+        "county": "Broward",
+        "countyFips": "011",
+        "latitude": 26.0102,
+        "longitude": -80.1804,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "squareFootage": 2380,
+        "lotSize": 9200,
+        "yearBuilt": 2005,
+        "assessorID": "121007-011-0008",
+        "legalDescription": "LOT 8 HOLLYWOOD HILLS",
+        "subdivision": "HOLLYWOOD HILLS",
+        "zoning": "RS-3",
+        "lastSaleDate": "2024-08-08T00:00:00.000Z",
+        "lastSalePrice": 815000,
+        "hoa": {
+            "fee": 0
+        },
+        "features": {
+            "architectureType": "Modern",
+            "cooling": true,
+            "coolingType": "Central",
+            "exteriorType": "Stucco",
+            "fireplace": true,
+            "fireplaceType": "Electric",
+            "floorCount": 1,
+            "foundationType": "Concrete",
+            "garage": true,
+            "garageSpaces": 2,
+            "garageType": "Attached",
+            "heating": true,
+            "heatingType": "Electric",
+            "pool": true,
+            "poolType": "Private",
+            "roofType": "Tile",
+            "roomCount": 7,
+            "unitCount": 1,
+            "viewType": "Garden"
+        },
+        "taxAssessments": {
+            "2024": {
+                "year": 2024,
+                "value": 760000,
+                "land": 258400,
+                "improvements": 501600
+            }
+        },
+        "propertyTaxes": {
+            "2024": {
+                "year": 2024,
+                "total": 9100
+            }
+        },
+        "history": {
+            "2024-08-08": {
+                "event": "Sale",
+                "date": "2024-08-08T00:00:00.000Z",
+                "price": 815000
+            }
+        },
+        "owner": {
+            "names": [
+                "Ava Collins"
+            ],
+            "type": "Individual",
+            "mailingAddress": {
+                "id": "4100-Sheridan-Street-Hollywood-FL-33021",
+                "formattedAddress": "4100 Sheridan Street, Hollywood, FL 33021",
+                "addressLine1": "4100 Sheridan Street",
+                "addressLine2": null,
+                "city": "Hollywood",
+                "state": "FL",
+                "stateFips": "12",
+                "zipCode": "33021"
+            }
+        },
+        "ownerOccupied": true
+    },
+    {
+        "id": "1500-Ponce-de-Leon-Boulevard-Coral-Gables-FL-33134",
+        "formattedAddress": "1500 Ponce de Leon Boulevard, Coral Gables, FL 33134",
+        "addressLine1": "1500 Ponce de Leon Boulevard",
+        "addressLine2": null,
+        "city": "Coral Gables",
+        "state": "FL",
+        "stateFips": "12",
+        "zipCode": "33134",
+        "county": "Miami-Dade",
+        "countyFips": "086",
+        "latitude": 25.7534,
+        "longitude": -80.2597,
+        "propertyType": "Condominium",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 1275,
+        "lotSize": 0,
+        "yearBuilt": 2016,
+        "assessorID": "121008-086-0009",
+        "legalDescription": "LOT 9 PONCE TOWER",
+        "subdivision": "PONCE TOWER",
+        "zoning": "RM",
+        "lastSaleDate": "2024-09-09T00:00:00.000Z",
+        "lastSalePrice": 735000,
+        "hoa": {
+            "fee": 610
+        },
+        "features": {
+            "architectureType": "Modern",
+            "cooling": true,
+            "coolingType": "Central",
+            "exteriorType": "Stucco",
+            "fireplace": false,
+            "fireplaceType": null,
+            "floorCount": 15,
+            "foundationType": "Concrete",
+            "garage": true,
+            "garageSpaces": 1,
+            "garageType": "Underground",
+            "heating": true,
+            "heatingType": "Electric",
+            "pool": true,
+            "poolType": "Community",
+            "roofType": "Flat",
+            "roomCount": 5,
+            "unitCount": 120,
+            "viewType": "City"
+        },
+        "taxAssessments": {
+            "2024": {
+                "year": 2024,
+                "value": 698000,
+                "land": 0,
+                "improvements": 698000
+            }
+        },
+        "propertyTaxes": {
+            "2024": {
+                "year": 2024,
+                "total": 8200
+            }
+        },
+        "history": {
+            "2024-09-09": {
+                "event": "Sale",
+                "date": "2024-09-09T00:00:00.000Z",
+                "price": 735000
+            }
+        },
+        "owner": {
+            "names": [
+                "Ethan Parker"
+            ],
+            "type": "Individual",
+            "mailingAddress": {
+                "id": "1500-Ponce-de-Leon-Boulevard-Coral-Gables-FL-33134",
+                "formattedAddress": "1500 Ponce de Leon Boulevard, Coral Gables, FL 33134",
+                "addressLine1": "1500 Ponce de Leon Boulevard",
+                "addressLine2": null,
+                "city": "Coral Gables",
+                "state": "FL",
+                "stateFips": "12",
+                "zipCode": "33134"
+            }
+        },
+        "ownerOccupied": false
+    },
+    {
+        "id": "275-Ocean-Boulevard-Golden-Beach-FL-33160",
+        "formattedAddress": "275 Ocean Boulevard, Golden Beach, FL 33160",
+        "addressLine1": "275 Ocean Boulevard",
+        "addressLine2": null,
+        "city": "Golden Beach",
+        "state": "FL",
+        "stateFips": "12",
+        "zipCode": "33160",
+        "county": "Miami-Dade",
+        "countyFips": "086",
+        "latitude": 25.962,
+        "longitude": -80.1205,
+        "propertyType": "Single Family",
+        "bedrooms": 5,
+        "bathrooms": 5,
+        "squareFootage": 4120,
+        "lotSize": 12500,
+        "yearBuilt": 2014,
+        "assessorID": "121009-086-0010",
+        "legalDescription": "LOT 10 GOLDEN BEACH",
+        "subdivision": "GOLDEN BEACH",
+        "zoning": "RS-3",
+        "lastSaleDate": "2024-10-10T00:00:00.000Z",
+        "lastSalePrice": 2850000,
+        "hoa": {
+            "fee": 0
+        },
+        "features": {
+            "architectureType": "Coastal",
+            "cooling": true,
+            "coolingType": "Central",
+            "exteriorType": "Stucco",
+            "fireplace": true,
+            "fireplaceType": "Electric",
+            "floorCount": 1,
+            "foundationType": "Concrete",
+            "garage": true,
+            "garageSpaces": 2,
+            "garageType": "Attached",
+            "heating": true,
+            "heatingType": "Electric",
+            "pool": true,
+            "poolType": "Private",
+            "roofType": "Tile",
+            "roomCount": 8,
+            "unitCount": 1,
+            "viewType": "Ocean"
+        },
+        "taxAssessments": {
+            "2024": {
+                "year": 2024,
+                "value": 2660000,
+                "land": 904400,
+                "improvements": 1755600
+            }
+        },
+        "propertyTaxes": {
+            "2024": {
+                "year": 2024,
+                "total": 29500
+            }
+        },
+        "history": {
+            "2024-10-10": {
+                "event": "Sale",
+                "date": "2024-10-10T00:00:00.000Z",
+                "price": 2850000
+            }
+        },
+        "owner": {
+            "names": [
+                "Mia Anderson"
+            ],
+            "type": "Individual",
+            "mailingAddress": {
+                "id": "275-Ocean-Boulevard-Golden-Beach-FL-33160",
+                "formattedAddress": "275 Ocean Boulevard, Golden Beach, FL 33160",
+                "addressLine1": "275 Ocean Boulevard",
+                "addressLine2": null,
+                "city": "Golden Beach",
+                "state": "FL",
+                "stateFips": "12",
+                "zipCode": "33160"
+            }
+        },
+        "ownerOccupied": true
+    },
+    {
+        "id": "6400-NW-24th-Avenue-Miami-FL-33147",
+        "formattedAddress": "6400 NW 24th Avenue, Miami, FL 33147",
+        "addressLine1": "6400 NW 24th Avenue",
+        "addressLine2": null,
+        "city": "Miami",
+        "state": "FL",
+        "stateFips": "12",
+        "zipCode": "33147",
+        "county": "Miami-Dade",
+        "countyFips": "086",
+        "latitude": 25.8358,
+        "longitude": -80.2376,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1860,
+        "lotSize": 7600,
+        "yearBuilt": 1998,
+        "assessorID": "121010-086-0011",
+        "legalDescription": "LOT 11 NORTH MIAMI ESTATES",
+        "subdivision": "NORTH MIAMI ESTATES",
+        "zoning": "RS-3",
+        "lastSaleDate": "2024-11-11T00:00:00.000Z",
+        "lastSalePrice": 535000,
+        "hoa": {
+            "fee": 0
+        },
+        "features": {
+            "architectureType": "Modern",
+            "cooling": true,
+            "coolingType": "Central",
+            "exteriorType": "Stucco",
+            "fireplace": true,
+            "fireplaceType": "Electric",
+            "floorCount": 1,
+            "foundationType": "Concrete",
+            "garage": true,
+            "garageSpaces": 2,
+            "garageType": "Attached",
+            "heating": true,
+            "heatingType": "Electric",
+            "pool": true,
+            "poolType": "Private",
+            "roofType": "Tile",
+            "roomCount": 6,
+            "unitCount": 1,
+            "viewType": "Garden"
+        },
+        "taxAssessments": {
+            "2024": {
+                "year": 2024,
+                "value": 502000,
+                "land": 170680,
+                "improvements": 331320
+            }
+        },
+        "propertyTaxes": {
+            "2024": {
+                "year": 2024,
+                "total": 6100
+            }
+        },
+        "history": {
+            "2024-11-11": {
+                "event": "Sale",
+                "date": "2024-11-11T00:00:00.000Z",
+                "price": 535000
+            }
+        },
+        "owner": {
+            "names": [
+                "Liam Foster"
+            ],
+            "type": "Individual",
+            "mailingAddress": {
+                "id": "6400-NW-24th-Avenue-Miami-FL-33147",
+                "formattedAddress": "6400 NW 24th Avenue, Miami, FL 33147",
+                "addressLine1": "6400 NW 24th Avenue",
+                "addressLine2": null,
+                "city": "Miami",
+                "state": "FL",
+                "stateFips": "12",
+                "zipCode": "33147"
+            }
+        },
+        "ownerOccupied": true
+    },
+    {
+        "id": "1850-Harrison-Street-Fort-Lauderdale-FL-33312",
+        "formattedAddress": "1850 Harrison Street, Fort Lauderdale, FL 33312",
+        "addressLine1": "1850 Harrison Street",
+        "addressLine2": null,
+        "city": "Fort Lauderdale",
+        "state": "FL",
+        "stateFips": "12",
+        "zipCode": "33312",
+        "county": "Broward",
+        "countyFips": "011",
+        "latitude": 26.1136,
+        "longitude": -80.1709,
+        "propertyType": "Townhouse",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "squareFootage": 1960,
+        "lotSize": 2100,
+        "yearBuilt": 2019,
+        "assessorID": "121011-011-0012",
+        "legalDescription": "LOT 12 RIVERLAND",
+        "subdivision": "RIVERLAND",
+        "zoning": "R-2",
+        "lastSaleDate": "2024-12-12T00:00:00.000Z",
+        "lastSalePrice": 785000,
+        "hoa": {
+            "fee": 425
+        },
+        "features": {
+            "architectureType": "Modern",
+            "cooling": true,
+            "coolingType": "Central",
+            "exteriorType": "Stucco",
+            "fireplace": true,
+            "fireplaceType": "Electric",
+            "floorCount": 2,
+            "foundationType": "Concrete",
+            "garage": true,
+            "garageSpaces": 1,
+            "garageType": "Attached",
+            "heating": true,
+            "heatingType": "Electric",
+            "pool": true,
+            "poolType": "Community",
+            "roofType": "Tile",
+            "roomCount": 6,
+            "unitCount": 1,
+            "viewType": "Garden"
+        },
+        "taxAssessments": {
+            "2024": {
+                "year": 2024,
+                "value": 742000,
+                "land": 252280,
+                "improvements": 489720
+            }
+        },
+        "propertyTaxes": {
+            "2024": {
+                "year": 2024,
+                "total": 8400
+            }
+        },
+        "history": {
+            "2024-12-12": {
+                "event": "Sale",
+                "date": "2024-12-12T00:00:00.000Z",
+                "price": 785000
+            }
+        },
+        "owner": {
+            "names": [
+                "Charlotte Reed"
+            ],
+            "type": "Individual",
+            "mailingAddress": {
+                "id": "1850-Harrison-Street-Fort-Lauderdale-FL-33312",
+                "formattedAddress": "1850 Harrison Street, Fort Lauderdale, FL 33312",
+                "addressLine1": "1850 Harrison Street",
+                "addressLine2": null,
+                "city": "Fort Lauderdale",
+                "state": "FL",
+                "stateFips": "12",
+                "zipCode": "33312"
+            }
+        },
+        "ownerOccupied": false
+    },
+    {
+        "id": "900-Gulf-Shore-Drive-Naples-FL-34102",
+        "formattedAddress": "900 Gulf Shore Drive, Naples, FL 34102",
+        "addressLine1": "900 Gulf Shore Drive",
+        "addressLine2": null,
+        "city": "Naples",
+        "state": "FL",
+        "stateFips": "12",
+        "zipCode": "34102",
+        "county": "Collier",
+        "countyFips": "021",
+        "latitude": 26.1445,
+        "longitude": -81.8012,
+        "propertyType": "Condominium",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 1540,
+        "lotSize": 0,
+        "yearBuilt": 2015,
+        "assessorID": "121012-021-0013",
+        "legalDescription": "LOT 13 GULF SHORE",
+        "subdivision": "GULF SHORE",
+        "zoning": "RM",
+        "lastSaleDate": "2024-01-13T00:00:00.000Z",
+        "lastSalePrice": 1125000,
+        "hoa": {
+            "fee": 610
+        },
+        "features": {
+            "architectureType": "Coastal",
+            "cooling": true,
+            "coolingType": "Central",
+            "exteriorType": "Stucco",
+            "fireplace": false,
+            "fireplaceType": null,
+            "floorCount": 15,
+            "foundationType": "Concrete",
+            "garage": true,
+            "garageSpaces": 1,
+            "garageType": "Underground",
+            "heating": true,
+            "heatingType": "Electric",
+            "pool": true,
+            "poolType": "Community",
+            "roofType": "Flat",
+            "roomCount": 5,
+            "unitCount": 120,
+            "viewType": "Gulf"
+        },
+        "taxAssessments": {
+            "2024": {
+                "year": 2024,
+                "value": 1065000,
+                "land": 0,
+                "improvements": 1065000
+            }
+        },
+        "propertyTaxes": {
+            "2024": {
+                "year": 2024,
+                "total": 11800
+            }
+        },
+        "history": {
+            "2024-01-13": {
+                "event": "Sale",
+                "date": "2024-01-13T00:00:00.000Z",
+                "price": 1125000
+            }
+        },
+        "owner": {
+            "names": [
+                "James Mitchell"
+            ],
+            "type": "Individual",
+            "mailingAddress": {
+                "id": "900-Gulf-Shore-Drive-Naples-FL-34102",
+                "formattedAddress": "900 Gulf Shore Drive, Naples, FL 34102",
+                "addressLine1": "900 Gulf Shore Drive",
+                "addressLine2": null,
+                "city": "Naples",
+                "state": "FL",
+                "stateFips": "12",
+                "zipCode": "34102"
+            }
+        },
+        "ownerOccupied": false
+    },
+    {
+        "id": "2250-Ocean-Drive-Sarasota-FL-34236",
+        "formattedAddress": "2250 Ocean Drive, Sarasota, FL 34236",
+        "addressLine1": "2250 Ocean Drive",
+        "addressLine2": null,
+        "city": "Sarasota",
+        "state": "FL",
+        "stateFips": "12",
+        "zipCode": "34236",
+        "county": "Sarasota",
+        "countyFips": "115",
+        "latitude": 27.3348,
+        "longitude": -82.5489,
+        "propertyType": "Condominium",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1710,
+        "lotSize": 0,
+        "yearBuilt": 2022,
+        "assessorID": "121013-115-0014",
+        "legalDescription": "LOT 14 BAYFRONT",
+        "subdivision": "BAYFRONT",
+        "zoning": "RM",
+        "lastSaleDate": "2024-02-14T00:00:00.000Z",
+        "lastSalePrice": 1240000,
+        "hoa": {
+            "fee": 610
+        },
+        "features": {
+            "architectureType": "Coastal",
+            "cooling": true,
+            "coolingType": "Central",
+            "exteriorType": "Stucco",
+            "fireplace": false,
+            "fireplaceType": null,
+            "floorCount": 15,
+            "foundationType": "Concrete",
+            "garage": true,
+            "garageSpaces": 1,
+            "garageType": "Underground",
+            "heating": true,
+            "heatingType": "Electric",
+            "pool": true,
+            "poolType": "Community",
+            "roofType": "Flat",
+            "roomCount": 6,
+            "unitCount": 120,
+            "viewType": "Gulf"
+        },
+        "taxAssessments": {
+            "2024": {
+                "year": 2024,
+                "value": 1168000,
+                "land": 0,
+                "improvements": 1168000
+            }
+        },
+        "propertyTaxes": {
+            "2024": {
+                "year": 2024,
+                "total": 13200
+            }
+        },
+        "history": {
+            "2024-02-14": {
+                "event": "Sale",
+                "date": "2024-02-14T00:00:00.000Z",
+                "price": 1240000
+            }
+        },
+        "owner": {
+            "names": [
+                "Amelia Hayes"
+            ],
+            "type": "Individual",
+            "mailingAddress": {
+                "id": "2250-Ocean-Drive-Sarasota-FL-34236",
+                "formattedAddress": "2250 Ocean Drive, Sarasota, FL 34236",
+                "addressLine1": "2250 Ocean Drive",
+                "addressLine2": null,
+                "city": "Sarasota",
+                "state": "FL",
+                "stateFips": "12",
+                "zipCode": "34236"
+            }
+        },
+        "ownerOccupied": false
+    },
+    {
+        "id": "410-Park-Avenue-Orlando-FL-32801",
+        "formattedAddress": "410 Park Avenue, Orlando, FL 32801",
+        "addressLine1": "410 Park Avenue",
+        "addressLine2": null,
+        "city": "Orlando",
+        "state": "FL",
+        "stateFips": "12",
+        "zipCode": "32801",
+        "county": "Orange",
+        "countyFips": "095",
+        "latitude": 28.542,
+        "longitude": -81.3732,
+        "propertyType": "Condominium",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "squareFootage": 915,
+        "lotSize": 0,
+        "yearBuilt": 2020,
+        "assessorID": "121014-095-0015",
+        "legalDescription": "LOT 15 DOWNTOWN ORLANDO",
+        "subdivision": "DOWNTOWN ORLANDO",
+        "zoning": "RM",
+        "lastSaleDate": "2024-03-15T00:00:00.000Z",
+        "lastSalePrice": 455000,
+        "hoa": {
+            "fee": 610
+        },
+        "features": {
+            "architectureType": "Modern",
+            "cooling": true,
+            "coolingType": "Central",
+            "exteriorType": "Stucco",
+            "fireplace": false,
+            "fireplaceType": null,
+            "floorCount": 15,
+            "foundationType": "Concrete",
+            "garage": true,
+            "garageSpaces": 1,
+            "garageType": "Underground",
+            "heating": true,
+            "heatingType": "Electric",
+            "pool": true,
+            "poolType": "Community",
+            "roofType": "Flat",
+            "roomCount": 4,
+            "unitCount": 120,
+            "viewType": "City"
+        },
+        "taxAssessments": {
+            "2024": {
+                "year": 2024,
+                "value": 430000,
+                "land": 0,
+                "improvements": 430000
+            }
+        },
+        "propertyTaxes": {
+            "2024": {
+                "year": 2024,
+                "total": 4900
+            }
+        },
+        "history": {
+            "2024-03-15": {
+                "event": "Sale",
+                "date": "2024-03-15T00:00:00.000Z",
+                "price": 455000
+            }
+        },
+        "owner": {
+            "names": [
+                "Benjamin Ward"
+            ],
+            "type": "Individual",
+            "mailingAddress": {
+                "id": "410-Park-Avenue-Orlando-FL-32801",
+                "formattedAddress": "410 Park Avenue, Orlando, FL 32801",
+                "addressLine1": "410 Park Avenue",
+                "addressLine2": null,
+                "city": "Orlando",
+                "state": "FL",
+                "stateFips": "12",
+                "zipCode": "32801"
+            }
+        },
+        "ownerOccupied": false
+    },
+    {
+        "id": "1600-Riverside-Drive-Tampa-FL-33606",
+        "formattedAddress": "1600 Riverside Drive, Tampa, FL 33606",
+        "addressLine1": "1600 Riverside Drive",
+        "addressLine2": null,
+        "city": "Tampa",
+        "state": "FL",
+        "stateFips": "12",
+        "zipCode": "33606",
+        "county": "Hillsborough",
+        "countyFips": "057",
+        "latitude": 27.9279,
+        "longitude": -82.451,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "squareFootage": 2920,
+        "lotSize": 6800,
+        "yearBuilt": 2011,
+        "assessorID": "121015-057-0016",
+        "legalDescription": "LOT 16 HYDE PARK",
+        "subdivision": "HYDE PARK",
+        "zoning": "RS-3",
+        "lastSaleDate": "2024-04-16T00:00:00.000Z",
+        "lastSalePrice": 1180000,
+        "hoa": {
+            "fee": 0
+        },
+        "features": {
+            "architectureType": "Modern",
+            "cooling": true,
+            "coolingType": "Central",
+            "exteriorType": "Stucco",
+            "fireplace": true,
+            "fireplaceType": "Electric",
+            "floorCount": 1,
+            "foundationType": "Concrete",
+            "garage": true,
+            "garageSpaces": 2,
+            "garageType": "Attached",
+            "heating": true,
+            "heatingType": "Electric",
+            "pool": true,
+            "poolType": "Private",
+            "roofType": "Tile",
+            "roomCount": 7,
+            "unitCount": 1,
+            "viewType": "River"
+        },
+        "taxAssessments": {
+            "2024": {
+                "year": 2024,
+                "value": 1105000,
+                "land": 375700,
+                "improvements": 729300
+            }
+        },
+        "propertyTaxes": {
+            "2024": {
+                "year": 2024,
+                "total": 13600
+            }
+        },
+        "history": {
+            "2024-04-16": {
+                "event": "Sale",
+                "date": "2024-04-16T00:00:00.000Z",
+                "price": 1180000
+            }
+        },
+        "owner": {
+            "names": [
+                "Harper Lewis"
+            ],
+            "type": "Individual",
+            "mailingAddress": {
+                "id": "1600-Riverside-Drive-Tampa-FL-33606",
+                "formattedAddress": "1600 Riverside Drive, Tampa, FL 33606",
+                "addressLine1": "1600 Riverside Drive",
+                "addressLine2": null,
+                "city": "Tampa",
+                "state": "FL",
+                "stateFips": "12",
+                "zipCode": "33606"
+            }
+        },
+        "ownerOccupied": true
+    },
+    {
+        "id": "720-Oceanfront-Avenue-Jacksonville-Beach-FL-32250",
+        "formattedAddress": "720 Oceanfront Avenue, Jacksonville Beach, FL 32250",
+        "addressLine1": "720 Oceanfront Avenue",
+        "addressLine2": null,
+        "city": "Jacksonville Beach",
+        "state": "FL",
+        "stateFips": "12",
+        "zipCode": "32250",
+        "county": "Duval",
+        "countyFips": "031",
+        "latitude": 30.2898,
+        "longitude": -81.3934,
+        "propertyType": "Townhouse",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "squareFootage": 2240,
+        "lotSize": 1900,
+        "yearBuilt": 2021,
+        "assessorID": "121016-031-0017",
+        "legalDescription": "LOT 17 JACKSONVILLE BEACH",
+        "subdivision": "JACKSONVILLE BEACH",
+        "zoning": "R-2",
+        "lastSaleDate": "2024-05-17T00:00:00.000Z",
+        "lastSalePrice": 985000,
+        "hoa": {
+            "fee": 425
+        },
+        "features": {
+            "architectureType": "Coastal",
+            "cooling": true,
+            "coolingType": "Central",
+            "exteriorType": "Stucco",
+            "fireplace": true,
+            "fireplaceType": "Electric",
+            "floorCount": 2,
+            "foundationType": "Concrete",
+            "garage": true,
+            "garageSpaces": 1,
+            "garageType": "Attached",
+            "heating": true,
+            "heatingType": "Electric",
+            "pool": true,
+            "poolType": "Community",
+            "roofType": "Tile",
+            "roomCount": 6,
+            "unitCount": 1,
+            "viewType": "Ocean"
+        },
+        "taxAssessments": {
+            "2024": {
+                "year": 2024,
+                "value": 930000,
+                "land": 316200,
+                "improvements": 613800
+            }
+        },
+        "propertyTaxes": {
+            "2024": {
+                "year": 2024,
+                "total": 10200
+            }
+        },
+        "history": {
+            "2024-05-17": {
+                "event": "Sale",
+                "date": "2024-05-17T00:00:00.000Z",
+                "price": 985000
+            }
+        },
+        "owner": {
+            "names": [
+                "Lucas Morgan"
+            ],
+            "type": "Individual",
+            "mailingAddress": {
+                "id": "720-Oceanfront-Avenue-Jacksonville-Beach-FL-32250",
+                "formattedAddress": "720 Oceanfront Avenue, Jacksonville Beach, FL 32250",
+                "addressLine1": "720 Oceanfront Avenue",
+                "addressLine2": null,
+                "city": "Jacksonville Beach",
+                "state": "FL",
+                "stateFips": "12",
+                "zipCode": "32250"
+            }
+        },
+        "ownerOccupied": false
+    },
+    {
+        "id": "305-E-Bay-Street-Savannah-GA-31401",
+        "formattedAddress": "305 E Bay Street, Savannah, GA 31401",
+        "addressLine1": "305 E Bay Street",
+        "addressLine2": null,
+        "city": "Savannah",
+        "state": "GA",
+        "stateFips": "13",
+        "zipCode": "31401",
+        "county": "Fulton",
+        "countyFips": "121",
+        "latitude": 32.0809,
+        "longitude": -81.0879,
+        "propertyType": "Townhouse",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "squareFootage": 1985,
+        "lotSize": 1450,
+        "yearBuilt": 2007,
+        "assessorID": "131017-121-0018",
+        "legalDescription": "LOT 18 DOWNTOWN SAVANNAH",
+        "subdivision": "DOWNTOWN SAVANNAH",
+        "zoning": "R-2",
+        "lastSaleDate": "2024-06-18T00:00:00.000Z",
+        "lastSalePrice": 695000,
+        "hoa": {
+            "fee": 425
+        },
+        "features": {
+            "architectureType": "Historic",
+            "cooling": true,
+            "coolingType": "Central",
+            "exteriorType": "Brick",
+            "fireplace": true,
+            "fireplaceType": "Electric",
+            "floorCount": 2,
+            "foundationType": "Concrete",
+            "garage": true,
+            "garageSpaces": 1,
+            "garageType": "Attached",
+            "heating": true,
+            "heatingType": "Gas",
+            "pool": true,
+            "poolType": "Community",
+            "roofType": "Tile",
+            "roomCount": 6,
+            "unitCount": 1,
+            "viewType": "City"
+        },
+        "taxAssessments": {
+            "2024": {
+                "year": 2024,
+                "value": 654000,
+                "land": 222360,
+                "improvements": 431640
+            }
+        },
+        "propertyTaxes": {
+            "2024": {
+                "year": 2024,
+                "total": 7600
+            }
+        },
+        "history": {
+            "2024-06-18": {
+                "event": "Sale",
+                "date": "2024-06-18T00:00:00.000Z",
+                "price": 695000
+            }
+        },
+        "owner": {
+            "names": [
+                "Ella Cooper"
+            ],
+            "type": "Individual",
+            "mailingAddress": {
+                "id": "305-E-Bay-Street-Savannah-GA-31401",
+                "formattedAddress": "305 E Bay Street, Savannah, GA 31401",
+                "addressLine1": "305 E Bay Street",
+                "addressLine2": null,
+                "city": "Savannah",
+                "state": "GA",
+                "stateFips": "13",
+                "zipCode": "31401"
+            }
+        },
+        "ownerOccupied": false
+    },
+    {
+        "id": "980-Peachtree-Street-NE-Atlanta-GA-30309",
+        "formattedAddress": "980 Peachtree Street NE, Atlanta, GA 30309",
+        "addressLine1": "980 Peachtree Street NE",
+        "addressLine2": null,
+        "city": "Atlanta",
+        "state": "GA",
+        "stateFips": "13",
+        "zipCode": "30309",
+        "county": "Fulton",
+        "countyFips": "121",
+        "latitude": 33.7816,
+        "longitude": -84.383,
+        "propertyType": "Condominium",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 1380,
+        "lotSize": 0,
+        "yearBuilt": 2018,
+        "assessorID": "131018-121-0019",
+        "legalDescription": "LOT 19 MIDTOWN",
+        "subdivision": "MIDTOWN",
+        "zoning": "RM",
+        "lastSaleDate": "2024-07-19T00:00:00.000Z",
+        "lastSalePrice": 625000,
+        "hoa": {
+            "fee": 610
+        },
+        "features": {
+            "architectureType": "Historic",
+            "cooling": true,
+            "coolingType": "Central",
+            "exteriorType": "Brick",
+            "fireplace": false,
+            "fireplaceType": null,
+            "floorCount": 15,
+            "foundationType": "Concrete",
+            "garage": true,
+            "garageSpaces": 1,
+            "garageType": "Underground",
+            "heating": true,
+            "heatingType": "Gas",
+            "pool": true,
+            "poolType": "Community",
+            "roofType": "Flat",
+            "roomCount": 5,
+            "unitCount": 120,
+            "viewType": "City"
+        },
+        "taxAssessments": {
+            "2024": {
+                "year": 2024,
+                "value": 590000,
+                "land": 0,
+                "improvements": 590000
+            }
+        },
+        "propertyTaxes": {
+            "2024": {
+                "year": 2024,
+                "total": 6900
+            }
+        },
+        "history": {
+            "2024-07-19": {
+                "event": "Sale",
+                "date": "2024-07-19T00:00:00.000Z",
+                "price": 625000
+            }
+        },
+        "owner": {
+            "names": [
+                "Henry Scott"
+            ],
+            "type": "Individual",
+            "mailingAddress": {
+                "id": "980-Peachtree-Street-NE-Atlanta-GA-30309",
+                "formattedAddress": "980 Peachtree Street NE, Atlanta, GA 30309",
+                "addressLine1": "980 Peachtree Street NE",
+                "addressLine2": null,
+                "city": "Atlanta",
+                "state": "GA",
+                "stateFips": "13",
+                "zipCode": "30309"
+            }
+        },
+        "ownerOccupied": false
+    },
+    {
+        "id": "55-Congress-Street-Boston-MA-02109",
+        "formattedAddress": "55 Congress Street, Boston, MA 02109",
+        "addressLine1": "55 Congress Street",
+        "addressLine2": null,
+        "city": "Boston",
+        "state": "MA",
+        "stateFips": "25",
+        "zipCode": "02109",
+        "county": "Suffolk",
+        "countyFips": "025",
+        "latitude": 42.3581,
+        "longitude": -71.0574,
+        "propertyType": "Condominium",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 1185,
+        "lotSize": 0,
+        "yearBuilt": 2016,
+        "assessorID": "251019-025-0020",
+        "legalDescription": "LOT 20 DOWNTOWN BOSTON",
+        "subdivision": "DOWNTOWN BOSTON",
+        "zoning": "RM",
+        "lastSaleDate": "2024-08-20T00:00:00.000Z",
+        "lastSalePrice": 1195000,
+        "hoa": {
+            "fee": 610
+        },
+        "features": {
+            "architectureType": "Modern",
+            "cooling": true,
+            "coolingType": "Central",
+            "exteriorType": "Brick",
+            "fireplace": false,
+            "fireplaceType": null,
+            "floorCount": 15,
+            "foundationType": "Concrete",
+            "garage": true,
+            "garageSpaces": 1,
+            "garageType": "Underground",
+            "heating": true,
+            "heatingType": "Gas",
+            "pool": true,
+            "poolType": "Community",
+            "roofType": "Flat",
+            "roomCount": 5,
+            "unitCount": 120,
+            "viewType": "City"
+        },
+        "taxAssessments": {
+            "2024": {
+                "year": 2024,
+                "value": 1128000,
+                "land": 0,
+                "improvements": 1128000
+            }
+        },
+        "propertyTaxes": {
+            "2024": {
+                "year": 2024,
+                "total": 12400
+            }
+        },
+        "history": {
+            "2024-08-20": {
+                "event": "Sale",
+                "date": "2024-08-20T00:00:00.000Z",
+                "price": 1195000
+            }
+        },
+        "owner": {
+            "names": [
+                "Grace Adams"
+            ],
+            "type": "Individual",
+            "mailingAddress": {
+                "id": "55-Congress-Street-Boston-MA-02109",
+                "formattedAddress": "55 Congress Street, Boston, MA 02109",
+                "addressLine1": "55 Congress Street",
+                "addressLine2": null,
+                "city": "Boston",
+                "state": "MA",
+                "stateFips": "25",
+                "zipCode": "02109"
+            }
+        },
+        "ownerOccupied": false
+    }
+]

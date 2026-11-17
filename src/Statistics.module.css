@@ -1,0 +1,74 @@
+.container {
+    background-color: rgb(20, 20, 20);
+    margin-bottom: 100px;
+    padding: 100px;
+    padding: 0px;
+    width: 100%;
+}
+
+.claims {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 80px;
+}
+
+.companySlider {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-top: 80px;
+    background: linear-gradient(rgba(0, 0, 0, 0.6) 0%, rgba(22, 185, 255, 0.381) 50%, rgba(0, 0, 0, 0.6) 100%);
+}
+
+.companySlider:hover .companies {
+    animation-play-state: paused;
+}
+
+.companies {
+    display: flex;
+    flex-direction: row;
+    flex-shrink: 0;
+    width: max-content;
+    gap: 30px;
+    padding-right: 30px;
+    animation: scrollLeft 15s linear infinite;
+}
+
+.companies h6 {
+    font-size: 18px;
+    margin: 0;
+    padding: 18px;
+}
+
+
+
+
+hr {
+    width: 80%;
+    margin: 0 auto;
+    border: 1px dashed rgb(112, 212, 255);
+    margin-top: 80px;
+}
+
+.claim p {
+    font-size: 20px;
+    text-align: center;
+    opacity: 87%;
+}
+
+.claim span {
+    color: rgb(112, 212, 255);
+    opacity: 100%;
+}
+
+@keyframes scrollLeft {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%); 
+  }
+}
