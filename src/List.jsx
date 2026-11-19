@@ -1,13 +1,13 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import Item from './Item';
 import styles from './List.module.css';
 import Nav from './Nav';
-import properties from './properties.json'
 import Footer from './Footer';
 import images from './images.json'
+import properties from './properties.json'
 
 
-function List() {
+function List({ purpose }) {
   const API_KEY = "1c356ec8feeb484fb255c6ea751da9e8";
   const [data, setData] = useState([]);
   const [isLoading, setIsLoading] = useState(false);
@@ -59,7 +59,8 @@ function List() {
       <div className={styles.list}>
         { !isLoading ? (
             properties.map((property) => (
-              <Item property={property} key={property.id} />
+              purpose == property.purpose? 
+                <Item property={property} key={property.id} price={property.lastSalePrice} /> : ""
             ))
           ) : (
             <p>Loading....</p>

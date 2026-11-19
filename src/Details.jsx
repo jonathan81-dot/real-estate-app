@@ -75,9 +75,14 @@ function Details() {
                   <li>Is Owner Occupied: {selectedItem.features.ownerOccupied? "Yes":"No"}</li>
               </ul>
 
-              <div className={styles.actionBtns}>
-                <button className={styles.buyBtn}>Buy</button>
-                <button className={styles.rentBtn}>Rent</button>
+              <div className={styles.callToAction}>
+                <h3 className={styles.price}>${selectedItem.lastSalePrice}</h3> 
+                <div className={styles.actionBtns}>
+                  {
+                    selectedItem.purpose == "buy"? 
+                      <button className={styles.buyBtn} style={{padding: "14px 100px"}}>Buy</button> :  <button className={styles.rentBtn} style={{padding: "14px 100px"}}>Rent</button>
+                  }
+                </div>
               </div>
             </div>
           </div>

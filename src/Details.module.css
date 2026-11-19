@@ -76,13 +76,27 @@
     align-items: center;
 }
 
+.callToAction {
+    background-color: rgb(53, 53, 53);
+    border-radius: 0 0 40px 40px;
+    padding: 60px 40px;
+}
+
+.price {
+    margin-top: 0px;
+    margin-bottom: 0;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+}
+
 .actionBtns {
     display: flex;
     flex-direction: row;
     gap: 35px;
     justify-content: center;
     align-items: center;
-    margin-top: 25px;
+    margin-top: 15px;
     /* padding: 20px; */
 }
 

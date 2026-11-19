@@ -42,6 +42,11 @@
     /* transition: all 0.5s ease-in-out; */
 }
 
+.card ul .price {
+    padding-top: 15px;
+    margin: 100px;
+}
+
 .container:hover .item {
     text-align: left;
 }
@@ -56,10 +61,16 @@
     opacity: 100%;
 }
 
+.container:hover .price {
+    display: none;
+    opacity: 0;
+}
+
 .details {
     font-size: 14px;
     list-style: none;
 }
+
 
 
 

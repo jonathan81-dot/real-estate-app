@@ -3,7 +3,7 @@ import styles from './Item.module.css';
 import Nav from './Nav';
 import images from './images.json'
 
-function Item({ property }) {
+function Item({ property, price }) {
   const {propertyID} = useParams();
   let id = 0;
 
@@ -22,7 +22,12 @@ function Item({ property }) {
                 <li>Number of bedrooms: {property.bedrooms}</li>
                 <li>Number of bathrooms: {property.bathrooms}</li>
                 <li>Was built in: {property.yearBuilt}</li>
+                <h3>${price}</h3>
               </ul>
+            </div>
+
+            <div className={styles.price}>
+              <h3>${price}</h3>
             </div>
           </div>
         </Link>       
