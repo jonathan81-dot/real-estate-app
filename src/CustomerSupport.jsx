@@ -67,7 +67,7 @@ function CustomerSupport() {
                 </label>
                 <label htmlFor="message" className={styles.formElement}>Message<input type="text" id='message'/></label>
                 
-                <button onClick={(e) => {e.preventDefault; message = e.target.value; HandleFormSubmit}}>Submit</button>
+                <button onClick={(e) => {e.preventDefault(); message = e.target.value; HandleFormSubmit}}>Submit</button>
               </div>
             </form>
           </div>

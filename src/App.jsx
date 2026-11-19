@@ -5,9 +5,9 @@ import Item from './Item'
 import List from './List'
 import Nav from './Nav'
 import NotFoundPage from './NotFoundPage'
-import { createBrowserRouter, RouterProvider } from 'react-router-dom'
+import { createHashRouter, RouterProvider } from 'react-router-dom'
 import Details from './Details'
-import Footer from './footer'
+import Footer from './Footer'
 import Hero from './Hero'
 import LandingPage from './LandingPage'
 import LearnMore from './LearnMore'
@@ -21,7 +21,7 @@ function App() {
   const [isItemSelected, setIsItemSelected] = useState(false);
   const [selectedItem, setSelectedItem] = useState([]);
 
-  const router = createBrowserRouter([
+  const router = createHashRouter([
     {
       path: '/',
       element: <LandingPage />,

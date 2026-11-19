@@ -3,7 +3,7 @@ import properties from './properties.json'
 import { Link, useParams } from 'react-router-dom';
 import styles from './Details.module.css'
 import Nav from './Nav';
-import Footer from './footer';
+import Footer from './Footer';
 import { ArrowLeftIcon, ArrowRightIcon} from './svgIcons'
 
 function Details() {

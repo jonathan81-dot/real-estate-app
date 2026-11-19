@@ -1,0 +1,152 @@
+
+.container {
+    padding: 0 40px;
+    margin-bottom: 100px;
+}
+ 
+.intro {
+    max-width: 800px;
+    margin: 0 auto 60px;
+    text-align: center;
+}
+ 
+.title {
+    font-size: 42px;
+}
+ 
+.intro p {
+    font-size: 20px;
+    opacity: 1;
+    color: rgba(255, 255, 255, 0.75);
+}
+ 
+.features {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    max-width: 1200px;
+    margin: 0 auto 60px;
+}
+ 
+.feature {
+    padding: 40px;
+    color: white;
+    background: linear-gradient(135deg, #1d4f7a, rgb(20, 20, 20));
+    border: 1px solid rgba(84, 210, 255, 0.25);
+    border-radius: 30px;
+    transition: box-shadow 0.2s ease-in-out;
+}
+ 
+.feature:hover {
+    box-shadow: 0px 0px 15px #47d7ff;
+}
+ 
+.feature h2 {
+    font-size: 22px;
+    opacity: 1;
+}
+ 
+.feature p {
+    opacity: 1;
+    color: rgba(255, 255, 255, 0.85);
+}
+ 
+.actions {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+}
+ 
+.primaryBtn {
+    font-weight: 600;
+    font-size: 18px;
+    color: rgb(15, 15, 15);
+    background-color: rgb(67, 196, 255);
+    border: 2px solid transparent;
+    border-radius: 5px;
+    transition: all 0.2s ease-in-out;
+}
+ 
+.primaryBtn:hover {
+    background-color: white;
+    color: rgb(67, 196, 255);
+}
+ 
+.secondaryBtn {
+    font-weight: 600;
+    font-size: 18px;
+    color: white;
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 5px;
+    transition: all 0.2s ease-in-out;
+}
+ 
+.secondaryBtn:hover {
+    color: rgb(145, 233, 255);
+    border-color: rgb(145, 233, 255);
+}
+ 
+ 
+/******************************* Responsive Web Design **********************************************/
+ 
+@media (max-width: 900px) {
+ 
+    .features {
+ 
+        grid-template-columns: 1fr;
+ 
+    }
+ 
+}
+ 
+ 
+ 
+@media (max-width: 480px) {
+ 
+    .container {
+ 
+        padding: 0 12px;
+ 
+    }
+ 
+ 
+ 
+    .title {
+ 
+        font-size: 26px;
+ 
+    }
+ 
+ 
+ 
+    .intro p {
+ 
+        font-size: 16px;
+ 
+    }
+ 
+ 
+ 
+    .feature {
+ 
+        padding: 25px;
+ 
+        border-radius: 18px;
+ 
+    }
+ 
+ 
+ 
+    .actions {
+ 
+        flex-wrap: wrap;
+ 
+        gap: 15px;
+ 
+    }
+ 
+}
+ 

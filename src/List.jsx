@@ -3,7 +3,7 @@ import Item from './Item';
 import styles from './List.module.css';
 import Nav from './Nav';
 import properties from './properties.json'
-import Footer from './footer';
+import Footer from './Footer';
 import images from './images.json'
 
 
